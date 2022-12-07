@@ -6,6 +6,7 @@
 # Objectives
 1. Completely dotnet approach to Kafka Streams
     - Not a port
+    - Topology built directly on top of Topics
 1. Cloud native architecture
     - Horizontally scalable
     - Kubernetes is home
