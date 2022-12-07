@@ -1,5 +1,4 @@
-# <span style="color:blue">**Core Streams**</span>
-## <span style="color:blue">**Modern Scalable Kafka Streams for the dotnet Ecosystem**</span>
+# **Core Streams**</br>*Modern Scalable Kafka Streams for the dotnet Ecosystem*
 &nbsp;
 
 &nbsp;
