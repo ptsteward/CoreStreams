@@ -7,14 +7,14 @@
 
 ## **1. Completely dotnet approach to Kafka Streams**
     - Not a port
-    - Topology built directly on top of Topics
+    - Topology built directly on atop Kafka
 ## **2. Cloud native architecture and Provider Agnostic**
     - Horizontally scalable
     - Kubernetes is home
     - Data can live anywhere
 ## **3. Stateful and Versioned by design**
     - Answers demand state and should not be an after thought
-    - Change demands Versioning, evolution is key in the DNA
+    - Change demands Versioning, evolution is key within the DNA
 ## **4. Transparent Parallelization**
     - Volume agnostic design
     - App awareness takes precedence over Operator tuning
